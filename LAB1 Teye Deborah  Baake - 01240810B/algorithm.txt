@@ -1,0 +1,82 @@
+1. Arithmetic Operations:
+Start
+ -> Input num1,num2
+ -> Perform +, -, *, /
+ -> Display results 
+ Stop
+
+2. Area of Circle:
+Start
+ -> Input radius 
+-> area = 3.142 * r * r 
+-> Display
+  Stop
+
+3. Equality Check:
+Start 
+-> Input a, b, c 
+-> If a==b and b==c
+ -> Equal else Not equal
+   Stop
+
+4. String Comparison:
+Start
+ -> Input text 
+-> If text == hello
+ -> Match else No match 
+ Stop
+
+5. Greater Number:
+Start -> Input a, b
+ -> If a>b print a else print b
+ Stop
+
+6. Uppercase Check:
+Start
+ -> Input char 
+-> If between A-Z
+ -> Uppercase else Not 
+ Stop
+
+7. Contains 'a':
+Start -> Input string -> Check for 'a' -> Display result -> Stop
+
+8. Odd/Even:
+Start -> Input num -> If num%2==0 Even else Odd -> Stop
+
+9. Assignment vs Equality:
+Start -> Explain = and == -> Stop
+
+10. Ternary:
+Start -> Input a,b -> max=(a>b?a:b) -> Print -> Stop
+
+11. Increment/Decrement:
+Start -> x++ and x-- -> Print -> Stop
+
+12. Odd & Divisible by 3:
+Start -> If num%2!=0 and num%3==0 -> Valid -> Stop
+
+13. XOR Swap:
+Start -> Swap using XOR -> Print -> Stop
+
+14. Bitwise Shift:
+Start -> << and >> -> Print -> Stop
+
+15. Float Compare:
+Start -> Input x,y -> Compare -> Stop
+
+16. NOT Operators:
+Start -> !x and ~x -> Print -> Stop
+
+17. Power of 2:
+Start -> If n&(n-1)==0 -> Power of 2 -> Stop
+
+18. Binary to Decimal:
+Start -> Convert using base method -> Stop
+
+19. Number Conversion:
+Start -> Binary->Decimal->Octal/Hex -> Stop
+
+Teye Deborah Baake
+01240810B
+
